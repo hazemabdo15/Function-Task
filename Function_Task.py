@@ -1,4 +1,4 @@
-#https://github.com/hazemabdo15/List-and-function-Task.git
+#https://github.com/hazemabdo15/Function-Task.git
 def check_div (list=[1,2,3,4,5,6], num=2):
     print("The numbers in ", list1, "that are divisible by", num,"are:")
     for i in list:
